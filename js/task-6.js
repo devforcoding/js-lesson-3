@@ -1,5 +1,5 @@
     function showNumber() {
-        let number = prompt("Введите число больше 1: ", '');
+        let number = prompt("Введите число больше 1: ", ''); 
 
         step:
             for (let i = 2; i < number; i++) {
